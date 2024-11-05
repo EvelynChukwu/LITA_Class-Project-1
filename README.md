@@ -1,2 +1,3 @@
 # LITA_Class-Project-1
-My First project from my Data Analysis Class in The Incubator Hub
+### Project Tittle: Sales Performance Analysis for a Retail Store
+### Project Overview
