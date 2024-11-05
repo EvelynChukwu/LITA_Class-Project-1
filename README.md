@@ -14,3 +14,18 @@ Perform an initial exploration of the sales data. Use pivot tables to summarize 
 2. Region
 3. Month
 
+![Excel Work 1](https://github.com/user-attachments/assets/4ee436dd-f577-4e30-9c2e-9a421f4666e7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
